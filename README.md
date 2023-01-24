@@ -1,13 +1,20 @@
 # Olá, eu sou o Fellipe ✨
 
-Meu nome é Fellipe Fontanez. Tenho 21 anos e sou desenvolvedor Front End.
-As principais tecnologias que utilizo são: **React**, **Javascript**, **Typescript**, **NodeJS**, **HTML5** e **CSS**.
+21 | Front End Dev.
+<div style="display: inline-block">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css">
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="sass">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react">
+</div>
 ## Atualmente estou estudando:
 - Front End
->Typescript, React, Javascript 
+>Typescript, React, Javascript
 
 - Back end
-> NodeJS, Java, Typescript, Javascript 
+> NodeJS, Java, Typescript
 
 ##
 
