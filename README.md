@@ -15,7 +15,6 @@
 - Back end
 > Spring boot
 
-![Stats do Fellipe no GitHub](https://github-readme-stats.vercel.app/api?username=fellipefontanez&show_icons=true&theme=transparent)
 
 Você pode entrar em contato comigo pelo e-mail:
 >**fellipefontanez@gmail.com**
